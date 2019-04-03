@@ -1,0 +1,27 @@
+{
+  "name": "apitestdemo",
+  "version": "1.0.0",
+  "description": "API test with mocha and chai",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vega178/API-testing-mocha-chai-demo.git"
+  },
+  "author": "Esteban vega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vega178/API-testing-mocha-chai-demo/issues"
+  },
+  "homepage": "https://github.com/vega178/API-testing-mocha-chai-demo#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.2.1",
+    "mocha": "^6.0.2"
+  }
+}
