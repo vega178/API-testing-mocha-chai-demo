@@ -5,9 +5,6 @@ module.exports = {
     },
     search:{
       searchItem: 'v1/search'     
-    },
-    player:{
-      startUserPlayback: 'v1/me/player/play'
-    }
+    } 
   } 
 }; 
