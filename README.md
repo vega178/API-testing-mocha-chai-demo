@@ -1,1 +1,1 @@
-# API-testing-mocha-chai-demo
+# APIs testing with mocha and chai
